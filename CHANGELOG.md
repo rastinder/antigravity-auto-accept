@@ -2,6 +2,13 @@
 
 All notable changes to the **Antigravity Auto Accept** extension are documented here.
 
+## [1.2.0] - 2026-04-26
+
+### Fixed
+- Added CDP child-target attachment for newer Antigravity builds that render approval prompts inside document-backed child targets instead of the top page/webview document.
+- Included iframe CDP targets in discovery so injected approval handling can reach prompt surfaces that no longer appear in the original target list.
+- Aggregated activity stats from child CDP sessions so the control panel reflects approvals handled outside the top-level target.
+
 ## [1.1.9] - 2026-03-15
 
 ### Added

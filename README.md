@@ -31,7 +31,7 @@ https://github.com/pesoszpesosz/antigravity-auto-accept/issues
 
 Current version:
 
-- `1.1.9`
+- `1.2.0`
 
 Download:
 
